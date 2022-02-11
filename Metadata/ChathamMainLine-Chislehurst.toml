@@ -1,0 +1,14 @@
+rly_file = "ChathamMainLine-Chislehurst.rly"
+ttb_files = []
+ssn_files = [ "ChathamMainLine-Chislehurst OffPeak Automatic Signals.ssn", "ChathamMainLine-Chislehurst Peak Automatic Signals.ssn",]
+img_files = []
+doc_files = [ "README.md",]
+release_date = "2022-02-11"
+version = "1.0.0"
+country_code = "GB"
+factual = true
+description = ""
+display_name = "Chathammainline Chislehurst"
+name = "Chathammainline Chislehurst"
+author = "Skye Haynes"
+contributors = []
