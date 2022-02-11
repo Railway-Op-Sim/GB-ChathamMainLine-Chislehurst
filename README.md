@@ -30,7 +30,7 @@ Additional Peak Services:
 <br>1tph Ramsgate to Cannon Street (London-bound only)
 
 
-![Image of Current State of Map](Images/ChathamMainLine-Chislehurst.bmp)
+![Image of Current State of Map](Images/ChathamMainLine-Chislehurst Light.bmp)
 
 ## Current Status
 
