@@ -1,7 +1,7 @@
 rly_file = "ChathamMainLine-Chislehurst.rly"
-ttb_files = []
+ttb_files = [ "ChathamMainLine-Chislehurst Peak.ttb", "ChathamMainLine-Chislehurst OffPeak.ttb",]
 ssn_files = [ "ChathamMainLine-Chislehurst OffPeak Automatic Signals.ssn", "ChathamMainLine-Chislehurst Peak Automatic Signals.ssn",]
-img_files = []
+img_files = [ "ChathamMainLine-Chislehurst Dark.png", "ChathamMainLine-Chislehurst Light.bmp",]
 doc_files = [ "README.md",]
 release_date = "2022-02-11"
 version = "1.0.0"
